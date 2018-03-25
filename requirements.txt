@@ -1,2 +1,4 @@
 numpy==1.14.2
 pandas==0.22.0
+matplotlib==2.2.2
+git+https://github.com/has2k1/plotnine.git
